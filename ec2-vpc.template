@@ -339,7 +339,7 @@
                   "Fn::Join": [
                     "\n",
                     [
-                      "<h1>Congratulations, you have successfully launched the AWS CloudFormation sample.</h1>"
+                      "<html><head></head><body><h1>Congratulations, you have successfully launched the AWS CloudFormation sample.</h1></body></html>"
                     ]
                   ]
                 },
